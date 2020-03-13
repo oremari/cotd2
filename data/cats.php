@@ -12,7 +12,7 @@ Date: 2016
 
 $_SESSION['item'] = array();
 
-$_SESSION['item'][0]['name'] = 'Oreste';
+$_SESSION['item'][0]['name'] = 'Orestes';
 $_SESSION['item'][0]['rank'] = 1;
 $_SESSION['item'][0]['caption'] = 'Oreste Cat';
 $_SESSION['item'][0]['trivia'] = "<p>My name is Oreste and I live in Vitorchiano. My dad is Oreste Marinelli. He has a big nose!</p> <p style='color:silver;font-size:80%;font-style:italic'>Like me and we can watch the footie together. </p>";
